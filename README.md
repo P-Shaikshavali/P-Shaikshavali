@@ -2,7 +2,7 @@
 - 👀 I’m interested in Computer Science
 - 🌱 I’m currently learning Chennai
 - 💞️ I’m looking to collaborate with well reputed company
-- 📫 How to reach me ✉️shaiksha4131@gmail.com
+- 📫 How to reach me ✉️codeshaikshavali@gmail.com
 - 😄 Pronouns: He,His,Him
 
 <!---
