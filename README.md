@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @P-Shaikshavali😊
 - 👀 I’m interested in Computer Science
-- 🌱 I’m currently learnig new technologies
+- 🌱 I’m currently learning new technologies
 - 💞️ I’m looking to collaborate with well reputed company
 - 📫 How to reach me ✉️codeshaikshavali@gmail.com
 - 😄 Pronouns: He,His,Him
