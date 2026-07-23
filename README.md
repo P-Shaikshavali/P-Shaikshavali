@@ -1,9 +1,11 @@
 # Shaikshavali
 
-[![MasterHead](https://bbdu.ac.in/wp-content/uploads/2020/02/utkarsh-website-banner-background.jpg)](https://github.com/Tummepallisivanagalakshman)
 
-<h1 align="center">Hi 👋, I'm P-Shaikshavali</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+
+<h1 align="center">Hi 👋, I'm Shaikshavali</h1>
+<h3 align="center">
+Software Engineer | AI & Backend Developer | Java • Spring Boot • Python • Azure OpenAI
+</h3>
 
 <img align="right" alt="coding" width="400" src="https://as1.ftcdn.net/jpg/02/25/10/36/1000_F_225103684_9opc6FzD29B5K2YMXlOTR1yuSQQemA4m.jpg" />
 
@@ -17,14 +19,14 @@
   </a>
 </p>
 
-- 🔭 I’m currently working on **App Development**
-- 🌱 I’m currently learning **Java**
-- 👯 I’m looking to collaborate on **Open Source Contribution, Freelance Web Projects**
-- 👨‍💻 All of my projects are available at [My Portfolio](https://shaikshavali-portfolio.netlify.app/)
-- 📫 How to reach me: **pshaikshavali2026@gmail.com**
-- 📄 Know about my experiences: [My Resume](https://drive.google.com/file/d/1bvV-GNU_FpxSsYkL-QpoLDpkBPqSLXQ1/view)
-- ⚡ Fun fact: **I drink more coffee debugging than coding ☕**
+## 👨‍💻 About Me
 
+- 🔭 Currently working on AI-powered backend applications and enterprise solutions
+- 🌱 Learning Azure OpenAI, LangGraph, Spring Boot, FastAPI and Cloud Technologies
+- 💻 Interested in Backend Development, Generative AI and Cybersecurity
+- 🤝 Looking to collaborate on Open Source, AI and Backend Projects
+- 📚 Passionate about solving real-world problems using AI
+- ⚡ Fun Fact: I enjoy building solutions more than just writing code.
 ---
 
 ### Connect with me:
