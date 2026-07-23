@@ -4,7 +4,7 @@
 
 <h1 align="center">Hi 👋, I'm Shaikshavali</h1>
 <h3 align="center">
-Software Engineer | AI & Backend Developer | Java • Spring Boot • Python • Azure OpenAI
+Software Engineer | AI & Backend Developer | • C#, •Frontend Development • Python • Azure OpenAI
 </h3>
 
 <img align="right" alt="coding" width="400" src="https://as1.ftcdn.net/jpg/02/25/10/36/1000_F_225103684_9opc6FzD29B5K2YMXlOTR1yuSQQemA4m.jpg" />
@@ -22,9 +22,9 @@ Software Engineer | AI & Backend Developer | Java • Spring Boot • Python •
 ## 👨‍💻 About Me
 
 - 🔭 Currently working on AI-powered backend applications and enterprise solutions
-- 🌱 Learning Azure OpenAI, LangGraph, Spring Boot, FastAPI and Cloud Technologies
+- 🌱 Learning Azure OpenAI, LangGraph, and Cloud Technologies
 - 💻 Interested in Backend Development, Generative AI and Cybersecurity
-- 🤝 Looking to collaborate on Open Source, AI and Backend Projects
+- 🤝 Looking to collaborate on Open Source, AI, Frontend and Backend Projects
 - 📚 Passionate about solving real-world problems using AI
 - ⚡ Fun Fact: I enjoy building solutions more than just writing code.
 ---
